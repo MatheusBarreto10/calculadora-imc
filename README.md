@@ -21,7 +21,7 @@ O usuário informa seu **peso** (em kg) e **altura** (em cm), e o sistema calcul
 
 ## 🖥️ Demonstração
 
-![Calculadora de IMC] https://matheusbarreto10.github.io/calculadora-imc/
+https://matheusbarreto10.github.io/calculadora-imc/
 
 
 ## 📂 Como usar
