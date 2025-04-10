@@ -21,19 +21,18 @@ O usuário informa seu **peso** (em kg) e **altura** (em cm), e o sistema calcul
 
 ## 🖥️ Demonstração
 
-![Calculadora de IMC](https://user-images.githubusercontent.com/seu-usuario/screenshot.png)
+![Calculadora de IMC](https://user-images.githubusercontent.com/MatheusBarreto10/screenshot.png)
 
-> (Você pode adicionar um print ou até subir no GitHub Pages pra demonstrar!)
 
 ## 📂 Como usar
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/calculadora-imc.git
+git clone https://github.com/MatheusBarreto10/calculadora-imc.git
 ```
 
 2. Abra o arquivo `index.html` no seu navegador.
 
 ## 📌 Autor
 
-Desenvolvido por [Seu Nome](https://www.linkedin.com/in/seu-usuario/) 👋
+Desenvolvido por [Matheus Barreto](https://www.linkedin.com/in/MatheusBarreto10/) 👋
